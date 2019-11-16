@@ -150,4 +150,7 @@ bibtex_2academic <- function(bibfile,
   apply(mypubs, FUN = function(x) create_md(x), MARGIN = 1)
 }
 
+# Run to create publication list
 bibtex_2academic(bibfile='content/publication/rpoyatos_all.bib',outfold='content/publication/')
+
+# Remember to change /& in Plant Cell and Environment !!
