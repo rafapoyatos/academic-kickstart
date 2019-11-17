@@ -19,12 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Reviewer profile at publons"
+  organization = "Reviewed for >20 Journals"
   organization_url = ""
-  title = "Editorial Review Board"
+  title = "Reviewer profile at publons"
   url = "https://publons.com/researcher/904154/rafael-poyatos/peer-review/"
   certificate_url = ""
-  date_start = "2017-01-01"
+  date_start = "2019-11-01"
   date_end = ""
   description = ""
 
