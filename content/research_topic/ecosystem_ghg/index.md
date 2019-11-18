@@ -1,5 +1,5 @@
 ---
-title: Terrestrial ecosystems and greenhouse gas cycling
+title: Carbon cycling and greenhouse gas balance in terrestrial ecosystems
 summary: Ecosystem-atmosphere exchange of greenhouse gases
 tags:
 - Demo
