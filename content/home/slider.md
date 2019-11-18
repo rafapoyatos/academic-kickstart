@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # Slide interval.
@@ -51,4 +51,18 @@ height = ""
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = "SAPFLUXNET"
+  content = "I am right aligned :smile:"
+  align = "right"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "SAPFLUXNET"
+  cta_url = "#projects"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
 +++
