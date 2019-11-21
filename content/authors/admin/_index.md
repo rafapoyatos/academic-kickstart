@@ -25,6 +25,7 @@ interests:
 - Ecosystem Ecology
 - Forests
 - Drought
+- Terrestrial carbon cycling and GHG emissions
 
 education:
   courses:

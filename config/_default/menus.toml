@@ -29,7 +29,7 @@
   url = "#contact"
   weight = 60
 
-[[main]]
-  name = "Projects"  # Title of the link.
-  url = "research_projects/"  # Widget Page folder name.
-  weight = 80  # Position of the link in the navigation bar.
+#[[main]]
+#  name = "Projects"  # Title of the link.
+#  url = "research_projects/"  # Widget Page folder name.
+#  weight = 80  # Position of the link in the navigation bar.

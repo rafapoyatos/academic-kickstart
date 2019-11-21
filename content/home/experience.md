@@ -69,6 +69,19 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Teaching collaborator"
+  company = "Autonomous University of Barcelona"
+  company_url = "https://www.dur.ac.uk/biosciences/research/eee/"
+  location = "Durham, UK"
+  date_start = "2010-10-01"
+  date_end = "2013-06-30"
+  description = """
+  [ABACUS project](http://www.geos.ed.ac.uk)
+  
+    """
+
+
+[[experience]]
   title = "Postdoctoral Research Associate"
   company = "Durham University"
   company_url = "https://www.dur.ac.uk/biosciences/research/eee/"
