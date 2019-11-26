@@ -39,32 +39,8 @@ date_format = "Jan 2006"
   date_start = "2009-09-01"
   date_end = ""
   description = """
-  **Projects**
+  **Member of the Ecophys research group**
   
-  * Nov 2019 - present. DATAFORUSE project [PI]
-  * Oct 2018 - June 2019. DRESS project
-  * Oct 2015 - Sep 2018. SAPFLUXNET project [PI]
-  * Jan 2015 - Sep 2015. FUN2FUN project.
-  * Jan 2014 - Dec 2014. CREAF research collaborator.
-  * Dec 2010 - Dec 2013. Juan de la Cierva Fellow.
-  * Sep 2009 - Dec 2010. MONTES project
-  
- **Awards and fellowships**
- 
-  * Jul 2019 - Jul 2022. Research Fellowship for Experienced Researchers, 
-  Alexander von Humboldt Foundation.
-  * Apr 2017 - Aug 2017. José Castillejo Mobility Grant, 
-  Spanish Ministry of Education and Universities.
-  * Mar 2014 - Feb 2016. Marie Sklodowska-Curie European Fellowship,
-  European Commission.
-  * Dec 2010 - Dec 2013. Juan de la Cierva Postdoctoral Fellowship, 
-  Spanish Ministry of Science and Innovation.
-  
-  **Research visits**
-  
-  * Jul 2019 - Dec 2019. [Max-Planck Institute for Biogeochemistry](https://www.bgc-jena.mpg.de/index.php/Main/HomePage), Jena, Germany.
-  * Apr 2017 - Aug 2017. [Ghent University, Lab of Plant Ecology](http://www.plantecology.ugent.be/people/), Ghent, Belgium.
-  * Mar 2012. [University of Edinburgh, School of Geosciences](http://www.geos.ed.ac.uk), Edinburgh, UK.
   
   """
 

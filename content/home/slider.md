@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 180  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -15,9 +15,10 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "SAPFLUXNET"
+  content = "I coordinate the global database of sap flow measurements"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -29,19 +30,45 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_label = "Learn more"
+  cta_url = "https://sapfluxnet.creaf.uab.cat"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
+
+
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = "Research projects"
+  content = "How our research is funded"
+  align = "center"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "See grants"
+  cta_url = "research_projects"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
+
+
+
+
+
+[[item]]
+  title = "Network and collaborations"
+  content = "See collaborations"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  cta_label = "See collaborations"
+  cta_url = "research_projects"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
+
 
 [[item]]
   title = "Right"
@@ -52,17 +79,4 @@ height = ""
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-[[item]]
-  title = "SAPFLUXNET"
-  content = "I am right aligned :smile:"
-  align = "right"
-
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
-  cta_label = "Research projects"
-  cta_url = "research_projects"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
 +++

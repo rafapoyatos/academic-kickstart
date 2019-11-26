@@ -23,6 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Plant Ecophysiology
 - Ecosystem Ecology
+- Ecohydrology
 - Forests
 - Drought
 - Terrestrial carbon cycling and GHG emissions
@@ -69,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a forest ecosystem ecophysiologist and ecohydrologist, interested in plant water and carbon economy and how it influences forest functioning and vulnerability in a context of global change. I have made relevant contributions on (1) the quantification of tree water use at different spatiotemporal scales, (2) how trees and forests respond to drought, specially with regard to water use and growth, (3) the role of woodlands in the carbon cycle, (4) the mechanisms and consequences of drought-induced tree mortality and (5) big data and the global functioning of woody plants.
+I am a plant ecophysiologist and ecosystem ecologist, interested in the environmental sensitivity of plant and ecosystem functioning, specially in terms of water and carbon fluxes.  My research has focused on  (1) the quantification of tree and ecosystem water use at different spatiotemporal scales, (2) inter- and intraspecific variability of plant functional responses to drought, (3) the mechanisms and consequences of drought-induced tree mortality, (4) ecosystem carbon cycling and greenhouse gas emissions and (5) the use of large ecophysiological databases to understand global patterns in plant drought responses.
