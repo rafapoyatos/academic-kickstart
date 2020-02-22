@@ -1,9 +1,8 @@
 ---
-title: Vallcebre Research Catchments
-summary: Ecohydrology of Mediterranean montane vegetation
+title: Water use and hydraulic adjustments in Scots pine
+summary: How does Scots pine cope with drought across its geographic distribution?
 tags:
 
-- Ecohydrology
 - Plant drought responses
 
 date: "2019-11-14"
@@ -12,7 +11,7 @@ date: "2019-11-14"
 external_link: ""
 
 image:
-  caption: Vallcebre
+  caption: Scots pine at Serranía de Cuenca, Spain.
   focal_point: Smart
 
 links:
@@ -33,4 +32,4 @@ url_video: ""
 slides: example
 ---
 
-Description of PhD and other topics
+Poyatos 2007 OEC, Martíne-Vilalta 2009, Sterck 2012

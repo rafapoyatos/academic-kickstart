@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Experience"
+title = "Former Academic positions"
 subtitle = ""
 
 # Date format for experience
@@ -17,42 +17,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Adjunct Professor"
-  company = "Autonomous University of Barcelona"
-  company_url = "www.uab.cat"
-  location = "Barcelona"
-  date_start = "2018-09-01"
-  date_end = ""
-  description = """
-  **Courses taught**
-  
-  * Ecology - BSc Genetics, BSc Environmental Biology, BSc Biology (2018 - )
-  * Study Cases in Environmental Biology - BSc Environmental Biology (2018 - )
-  """
 
-[[experience]]
-  title = "Postdoctoral Researcher"
-  company = "CREAF"
-  company_url = "http://www.creaf.cat/"
-  location = "Barcelona"
-  date_start = "2009-09-01"
-  date_end = ""
-  description = """
-  **Member of the Ecophys research group**
-  
-  
-  """
 
 [[experience]]
   title = "Teaching collaborator"
   company = "Autonomous University of Barcelona"
   company_url = "https://www.dur.ac.uk/biosciences/research/eee/"
-  location = "Durham, UK"
+  location = "Barcelona, Catalonia, Spain"
   date_start = "2010-10-01"
   date_end = "2013-06-30"
   description = """
-  [ABACUS project](http://www.geos.ed.ac.uk)
+  [MSc Ecology and Biodiversity Management](https://www.uab.cat/web/studying/official-master-s-degrees/general-information-1096480962610.html?param1=1204013168104)
   
     """
 
@@ -73,7 +48,7 @@ date_format = "Jan 2006"
   title = "Postdoctoral Researcher"
   company = "Solfranc Tecnologías"
   company_url = "https://www.solfranc.com"
-  location = "Vila-Seca, Spain"
+  location = "Tarragona, Catalonia, Spain"
   date_start = "2007-02-01"
   date_end = "2008-03-01"
   description = """
@@ -85,7 +60,7 @@ date_format = "Jan 2006"
   title = "PhD Researcher and Research Assistant"
   company = "Institut de Ciències de la Terra Jaume Almera-CSIC"
   company_url = "https://sites.google.com/site/surfacehydrologyerosioncsic/home"
-  location = "Barcelona, Spain"
+  location = "Barcelona, Catalonia, Spain"
   date_start = "2002-06-01"
   date_end = "2007-01-30"
   description = """

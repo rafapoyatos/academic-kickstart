@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Awards, fellowships and research visits"
+title = "Awards, fellowships and mobility"
 subtitle = ""
 
 # Date format for experience

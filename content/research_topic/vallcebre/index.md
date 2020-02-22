@@ -33,4 +33,4 @@ url_video: ""
 slides: example
 ---
 
-Description of PhD and other topics
+Poyatos 2003, Poyatos 2005, Llorens 2010, Cristóbal 2011

@@ -20,9 +20,14 @@
   weight = 40
 
 [[main]]
+  name = "CV"
+  url = "/cv"
+  weight = 45
+
+[[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 50
 
 [[main]]
   name = "Contact"
