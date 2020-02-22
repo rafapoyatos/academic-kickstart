@@ -1,10 +1,10 @@
 ---
-title: Drought-induced mortality in trees
-summary: Mechanisms and consequences of drought-induced mortality in trees
+title: Functional responses to drought in trees
+summary: Patterns and processes in drought responses across tree species
 tags:
 
 - Plant drought responses
-- Ecohydrology
+
 
 date: "2019-11-14"
 
@@ -12,7 +12,7 @@ date: "2019-11-14"
 external_link: ""
 
 image:
-  caption: Dead Scots pine in the Prades Mountains (Catalonia)
+  caption: Sap flow and automatic dendrometers in Can Balasc, Barcelona
   focal_point: Smart
 
 links:
@@ -33,4 +33,4 @@ url_video: ""
 slides: example
 ---
 
-Drought-induced mortality description
+Poyatos 2008 AFS, Morán-López 2014, Sánchez-Costa 2015, Martínez-Vilalta 2014
