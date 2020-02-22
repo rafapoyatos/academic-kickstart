@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Adjunct Professor, UAB and Researcher at CREAF
+role: Researcher at CREAF, Adjunct Professor at UAB
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "www.creaf.cat"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Interested in tree and ecosystem physiology.
 
 interests:
 - Plant Ecophysiology
