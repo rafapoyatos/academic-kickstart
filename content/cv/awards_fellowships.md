@@ -91,6 +91,42 @@ date_format = "Jan 2006"
     """  
    
 [[experience]]
+  title = "Research visit, FPI mobility grant"
+  company = "Arid Areas Experimental Station CSIC"
+  company_url = "https://www.eeza.csic.es"
+  location = "Almería, Spain"
+  date_start = "2005-09-01"
+  date_end = "2005-12-20"
+  description = """
+  
+  
+    """     
+
+[[experience]]
+  title = "Research visit, FPI mobility grant"
+  company = "School of Geosciences, University of Edinburgh"
+  company_url = "https://www.ed.ac.uk/geosciences"
+  location = "Edinburgh, Scotland, UK"
+  date_start = "2004-10-01"
+  date_end = "2004-12-02"
+  description = """
+  
+  
+    """     
+   
+   [[experience]]
+  title = "Research visit, FPI mobility grant"
+  company = "Faculty of Forestry and Wood Technology, Mendel University of Agriculture and Forestry"
+  company_url = "https://www.ldf.mendelu.cz/en/"
+  location = "Brno, Czech Republic"
+  date_start = "2003-10-26"
+  date_end = "2003-12-27"
+  description = """
+  
+  
+    """ 
+   
+[[experience]]
   title = "FPI PhD Fellowship, Spanish Ministry of Science and Innovation "
   company = "Institut de Ciències de la Terra Jaume Almera-CSIC"
   company_url = "https://sites.google.com/site/surfacehydrologyerosioncsic/home"
@@ -99,10 +135,5 @@ date_format = "Jan 2006"
   date_end = "2007-01-30"
   description = """
   
-  **Research visits during PhD period**
-  
-  * Oct 2005 - Dec 2005, Arid Areas Experimental Station, Almería, Spain
-  * Nov 2004 - Dec 2004, University of Edniburgh, UK
-  * Nov 2003 - Dec 2003, Mendel University of Agriculture and Forestry, Brno, Czech Republic
     """     
 +++

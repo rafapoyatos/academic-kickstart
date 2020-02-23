@@ -1,6 +1,6 @@
 ---
-title: Carbon cycling and greenhouse gas balance in terrestrial ecosystems
-summary: Ecosystem-atmosphere exchange of greenhouse gases
+title: Carbon cycling in subarctic terrestrial ecosystems
+summary: Measuring CO2 fluxes in subarctic woodlands and tundra
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
