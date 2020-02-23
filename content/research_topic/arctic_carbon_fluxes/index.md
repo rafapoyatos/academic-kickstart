@@ -2,7 +2,8 @@
 title: Carbon cycling in subarctic terrestrial ecosystems
 summary: Measuring CO2 fluxes in subarctic woodlands and tundra
 tags:
-- Demo
+- Ecosystem carbon fluxes
+- GHG fluxes
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

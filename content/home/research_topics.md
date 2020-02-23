@@ -32,6 +32,18 @@ subtitle = ""
    [[content.filter_button]]
      name = "Ecohydrology"
      tag = "Ecohydrology"
+     
+  [[content.filter_button]]
+     name = "Ecosystem carbon fluxes"
+     tag = "Ecosystem carbon fluxes"
+
+  [[content.filter_button]]
+     name = "GHG fluxes"
+     tag = "GHG fluxes"
+     
+  [[content.filter_button]]
+     name = "Ecological databases"
+     tag = "Ecological databases"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
