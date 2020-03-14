@@ -33,4 +33,8 @@ url_video: ""
 slides: example
 ---
 
+How is forest evapotranspiration partitioned between canopy and understorey fluxes? In studies measuring different evapotranspiration components, I have shown that evaporative fluxes from understorey may be low in closed, Mediterranean forests, but considerably high in open subarctic woodlands.These results are relevant for evapotranspiration partitioning in forest ecosystems with varying stand structure.
+
+### Publications
+
 Stoy et al 2019, Sabater 2020...reference to Poyatos 2007 AFM
