@@ -43,4 +43,7 @@ How can we model and extrapolate forest evaporative fluxes in time and space? We
 
 ### Publications
 
+- Llorens, P., **Poyatos, R.**, Latron, J., Delgado, J., Oliveras, I. & Gallart, F. (2010) A multi-year study of rainfall and soil water controls on Scots pine transpiration under Mediterranean mountain conditions. Hydrological Processes, 24, 3053–3064.
+- **Poyatos, R.**, Latron, J. & Llorens, P. (2003) Land use and land cover change after agricultural abandonment: The case of a Mediterranean Mountain area (Catalan Pre-Pyrenees). Mountain Research and Development, 23, 362–368.
+- **Poyatos, R.**, Llorens, P. & Gallart, F. (2005) Transpiration of montane Pinus sylvestris L. and Quercus pubescens Willd. forest stands measured with sap flow sensors in NE Spain. Hydrology and Earth System Sciences, 9, 493–505.
 
